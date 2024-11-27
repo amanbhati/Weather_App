@@ -46,7 +46,7 @@ Zeotap-Weather-App/
 
 🚀 Installation
 Clone the repository:
-    git clone https://github.com/vaibhav15404/Zeotap-Weather-App.git
+    git clone https://amanbhati.github.io/Weather_App/
     cd Zeotap-Weather-App
 
 Install server dependencies:
