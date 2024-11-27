@@ -15,7 +15,7 @@ Welcome to the **Zeotap Weather App**, a real-time weather monitoring system tha
 7. [Future Enhancements](#future-enhancements)
 
 ---
-📘 
+ 
 ## Features
 
 - **Real-Time Data Retrieval**: Fetches weather data for major metro cities from the OpenWeatherMap API.
@@ -26,7 +26,7 @@ Welcome to the **Zeotap Weather App**, a real-time weather monitoring system tha
 
 ---
 
-## 💻 [Tech Stack](#tech-stack)
+## Tech Stack
 
 - **Frontend**: React, Chart.js
 - **Backend**: Node.js, Express
@@ -35,7 +35,7 @@ Welcome to the **Zeotap Weather App**, a real-time weather monitoring system tha
 
 ---
 
-## 📁 [Project Structure](#project-structure)
+## Project Structure
 
 ```plaintext
 Zeotap-Weather-App/
@@ -50,7 +50,7 @@ Zeotap-Weather-App/
 ```
 
 ---
-## 🚀 [Installation](#installation)
+## Installation
 
 1. **Clone the repository**:
     ```bash
@@ -72,7 +72,7 @@ Zeotap-Weather-App/
 
 ---
 
-## 🌐 [Environment Setup](#environment-setup)
+## Environment Setup
 
 1. **Configure Environment Variables**:  
    Create a `.env` file in the root folder with the following variables:
@@ -97,7 +97,7 @@ Zeotap-Weather-App/
 
 ---
 
-## 📊 [Usage](#usage)
+## Usage
 
 - **Homepage**: View weather data summaries and trends for major cities.
 - **Add City**: Use the interface to add new cities for weather monitoring.
@@ -113,6 +113,6 @@ Zeotap-Weather-App/
 
 ---
 
-## UI Screenshots
+## UI Screenshot
 
 ![UI Screenshot](https://github.com/user-attachments/assets/d8a259fb-69b4-488f-9d2d-4671f2b17d03)
