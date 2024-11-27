@@ -16,7 +16,7 @@ Welcome to the **Zeotap Weather App**, a real-time weather monitoring system tha
 
 ---
 
-## 📘 Features
+   📘 ## Features
 
 - **Real-Time Data Retrieval**: Fetches weather data for major metro cities from the OpenWeatherMap API.
 - **Daily Summaries**: Provides daily weather summaries for each city, covering conditions like temperature and weather status.
