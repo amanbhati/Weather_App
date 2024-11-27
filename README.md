@@ -105,7 +105,7 @@ Zeotap-Weather-App/
 
 ---
 
-## 🔮 [Future Enhancements](#future-enhancements)
+## Future Enhancements
 
 - **User Authentication**: Implement user accounts for personalized weather tracking.
 - **Historical Data Analysis**: Store and analyze past weather data for trend forecasting.
