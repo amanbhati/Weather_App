@@ -4,7 +4,7 @@ Welcome to the **Zeotap Weather App**, a real-time weather monitoring system tha
 
 ---
 
-## 📜 Table of Contents
+## Table of Contents
 
 1. [Features](#features)
 2. [Tech Stack](#tech-stack)
